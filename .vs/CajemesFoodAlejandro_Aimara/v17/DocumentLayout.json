@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\migrations\\20241205055837_initialdatabasemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:migrations\\20241205055837_initialdatabasemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\data\\viewmodels\\platillovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:data\\viewmodels\\platillovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\controllers\\platilloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:controllers\\platilloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\controllers\\localscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:controllers\\localscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\data\\models\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:data\\models\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\data\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:data\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\data\\models\\local_platillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:data\\models\\local_platillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\data\\models\\platillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:data\\models\\platillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\data\\viewmodels\\administradorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:data\\viewmodels\\administradorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\data\\viewmodels\\localvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:data\\viewmodels\\localvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\data\\services\\administradoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:data\\services\\administradoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\data\\services\\localsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:data\\services\\localsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\data\\services\\platillosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:data\\services\\platillosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\controllers\\administradorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:controllers\\administradorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\exceptions\\administradornameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:exceptions\\administradornameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|c:\\users\\usuario\\downloads\\xitzia\\awos\\cajemesfoodalejandro_aimara\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E2604B-A82D-4667-80A4-45ECEB1A88DC}|CajemesFoodAlejandro_Aimara.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241205055837_InitialDatabaseMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Migrations\\20241205055837_InitialDatabaseMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241205055837_InitialDatabaseMigration.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Migrations\\20241205055837_InitialDatabaseMigration.cs",
+              "RelativeToolTip": "Migrations\\20241205055837_InitialDatabaseMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:58:37.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Local.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Models\\Local.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Local.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Models\\Local.cs",
+              "RelativeToolTip": "Data\\Models\\Local.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:36:36.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalsController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Controllers\\LocalsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocalsController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Controllers\\LocalsController.cs",
+              "RelativeToolTip": "Controllers\\LocalsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:47:32.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlatillosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Controllers\\PlatillosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlatillosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Controllers\\PlatillosController.cs",
+              "RelativeToolTip": "Controllers\\PlatillosController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:47:48.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlatilloVM.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\ViewModels\\PlatilloVM.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\PlatilloVM.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\ViewModels\\PlatilloVM.cs",
+              "RelativeToolTip": "Data\\ViewModels\\PlatilloVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:45:19.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T05:03:57.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbInitializer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\AppDbInitializer.cs",
+              "RelativeToolTip": "Data\\AppDbInitializer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:58:32.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Models\\Administrador.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Administrador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Models\\Administrador.cs",
+              "RelativeToolTip": "Data\\Models\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:36:27.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Local_Platillo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Models\\Local_Platillo.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Local_Platillo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Models\\Local_Platillo.cs",
+              "RelativeToolTip": "Data\\Models\\Local_Platillo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:36:55.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Platillo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Models\\Platillo.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Platillo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Models\\Platillo.cs",
+              "RelativeToolTip": "Data\\Models\\Platillo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:36:44.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LocalVM.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\ViewModels\\LocalVM.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\LocalVM.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\ViewModels\\LocalVM.cs",
+              "RelativeToolTip": "Data\\ViewModels\\LocalVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:45:10.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\AppDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbcontext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\AppDbcontext.cs",
+              "RelativeToolTip": "Data\\AppDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:51:36.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdministradorVM.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\ViewModels\\AdministradorVM.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\AdministradorVM.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\ViewModels\\AdministradorVM.cs",
+              "RelativeToolTip": "Data\\ViewModels\\AdministradorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:44:58.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdministradoresService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Services\\AdministradoresService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\AdministradoresService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Services\\AdministradoresService.cs",
+              "RelativeToolTip": "Data\\Services\\AdministradoresService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwCgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:40:57.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LocalsService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Services\\LocalsService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\LocalsService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Services\\LocalsService.cs",
+              "RelativeToolTip": "Data\\Services\\LocalsService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:41:08.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlatillosService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Services\\PlatillosService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\PlatillosService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Data\\Services\\PlatillosService.cs",
+              "RelativeToolTip": "Data\\Services\\PlatillosService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:41:18.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdministradoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Controllers\\AdministradoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdministradoresController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Controllers\\AdministradoresController.cs",
+              "RelativeToolTip": "Controllers\\AdministradoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:47:06.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdministradorNameException.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Exceptions\\AdministradorNameException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\AdministradorNameException.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Exceptions\\AdministradorNameException.cs",
+              "RelativeToolTip": "Exceptions\\AdministradorNameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:25:11.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:51:08.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\XITZIA\\AWOS\\CajemesFoodAlejandro_Aimara\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:51:06.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
